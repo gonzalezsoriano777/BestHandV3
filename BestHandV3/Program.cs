@@ -10,6 +10,8 @@ namespace BestHandV3
     {
         static void Main(string[] args)
         {
+            Card random = new Card(5, 2);
+
         }
     }
 }

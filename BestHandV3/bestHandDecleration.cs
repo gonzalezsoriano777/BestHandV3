@@ -14,6 +14,8 @@ namespace BestHandV3
             {
                 List<Card> playerOne = new List<Card>();
             }
+
+            // conclusion to the game
             public int HandTotal(List<Card> hand)
             {
                 int total = hand.Sum(face => face.cardValue);

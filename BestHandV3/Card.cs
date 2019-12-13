@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace BestHandV3
 {
+    // idea is clear
     public class Card
     {
         public int cardValue;
